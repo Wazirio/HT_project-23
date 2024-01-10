@@ -1,1 +1,1 @@
-[README.md](https://github.com/Wazirio/HT_project-23/files/13892101/README.md)
+ This repository will contain some of the basic scripts used during the performance of a High-ThroughPut Master’s 5-week project in an academic lab. I will not update the tools ; but any recommandation is welcomed !
